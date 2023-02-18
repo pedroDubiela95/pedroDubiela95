@@ -3,7 +3,7 @@
 
 ### 👋 Hello, welcome to my GitHub profile.
 
-- 🔭 Currently working as a Data Scientist focusing on building predictive models for agribusiness.
+- 🔭 I’m currently working as a Data Scientist focusing on building predictive models for agribusiness.
 - 🌱 I've been directing my studies towards statistics, in order to optimize the extraction of insights from mass data.
 - 💬 We can talk about the entire development pipeline of predictive models using Python language.
 - 😄 Pronouns: He/His
