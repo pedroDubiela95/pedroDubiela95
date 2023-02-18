@@ -7,11 +7,8 @@
 - 🌱 Tenho direcionado meus estudos para estatística, no sentido de otimizar a extração de insights de massa de dados.
 - 💬 Podemos falar sobre todo o pipeline de desenvolvimento de modelos preditivos utilizando linguagem Python.
 - 😄 Pronomes: Ele/Dele
-- ⚡ Curiosidade: Me graduei  em Engenharia Química pela Universidade Estadual de Maringá - UEM no final de 2020. Logo após, Iniciei minha jornada na indústria química no setor de P & D, porém
-minha paixão por tecnologia e análise de dados começaram a falar mais alto (eu já utilizava programação de computadores desde 2016, na resolução de problemas de engenharia). Assim, eu decidi adentrar o mundo da Ciência de Dados, iniciando na área de BI/BA  e posteriormente indo atuar como Cientista de Dados com foco no desenvolvimento e deploy de modelos de Machine Learning.
-
-
- 
+- ⚡ Curiosidade: Me graduei em Engenharia Química pela Universidade Estadual de Maringá - UEM no final de 2020. Logo após, iniciei minha jornada na indústria química no setor de P & D, porém
+minha paixão por tecnologia e análise de dados começaram a falar mais alto (eu já utilizava programação de computadores desde 2016, na resolução de problemas de engenharia). Assim, eu decidi adentrar o mundo da Ciência de Dados, iniciando na área de BI/BA e posteriormente indo atuar como Cientista de Dados com foco no desenvolvimento e deploy de modelos de Machine Learning.
 
 
 ## Ferramentas e Tecnologias:
@@ -22,9 +19,7 @@ minha paixão por tecnologia e análise de dados começaram a falar mais alto (e
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="60" height="60" vspace="30" hspace="30"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="60" height="60" vspace="30" hspace="30"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="60" height="60" vspace="30" hspace="30"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="60" height="60" vspace="30" hspace="30"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60" height="60" vspace="30" hspace="30"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-plain-wordmark.svg" width="60" height="60" vspace="30" hspace="30"/>
 
 
-
 ## Contatos:
-
 <div>
 
 <a href="https://instagram.com/pedrogasparine" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -40,5 +35,4 @@ minha paixão por tecnologia e análise de dados começaram a falar mais alto (e
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroDubiela95&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 
 </p>
-          
           
