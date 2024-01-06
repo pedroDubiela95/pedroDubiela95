@@ -1,13 +1,13 @@
 ## Pedro Gasparine Dubiela.
 <img align="right" width="250px" style="margin-top:-20px" src="https://i.ibb.co/mtM4CdH/Whats-App-Image-2023-02-18-at-16-19-17.jpg" >
 
-### 👋 Hello, welcome to my GitHub profile.
-
+- 👨🏻‍🎓 B.E. in Chemical Engineering |State University of Maringá - UEM| 2016-2020.
+- 🏅 Specialized in Artificial and Computational Intelligence |Federal University of Viçosa - UFV| 2023-2024.     
 - 🔭 I’m currently working as a Data Scientist focusing on building predictive models for agribusiness.
 - 🌱 I've been directing my studies towards statistics, in order to optimize the extraction of insights from mass data.
 - 💬 We can talk about the entire development pipeline of predictive models using Python language.
-- 😄 Pronouns: He/His
-- ⚡ Curiosity: I graduated in Chemical Engineering from the State University of Maringá - UEM at the end of 2020. Soon after, I started my journey in the chemical industry in the R & D sector, however
+- 😄 Pronouns: He/His. 
+- ⚡ Curiosity: I majored in Chemical Engineering at the end of 2020. Soon after, I started my journey in the chemical industry in the R & D sector, however
 my passion for technology and data analysis started to speak louder (I have been using computer programming since 2016, solving engineering problems). So, I decided to enter the world of Data Science, starting in the BI/BA area and later going to work as a Data Scientist with a focus on the development and deployment of Machine Learning models.
 
 
