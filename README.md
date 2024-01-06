@@ -8,7 +8,7 @@
 - 💬 We can talk about the entire development pipeline of predictive models using Python language.
 - 😄 Pronouns: He/His
 - ⚡ Curiosity: I graduated in Chemical Engineering from the State University of Maringá - UEM at the end of 2020. Soon after, I started my journey in the chemical industry in the R & D sector, however
-my passion for technology and data analysis started to speak louder (I had been using computer programming since 2016, solving engineering problems). So, I decided to enter the world of Data Science, starting in the BI/BA area and later going to work as a Data Scientist with a focus on the development and deployment of Machine Learning models.
+my passion for technology and data analysis started to speak louder (I have been using computer programming since 2016, solving engineering problems). So, I decided to enter the world of Data Science, starting in the BI/BA area and later going to work as a Data Scientist with a focus on the development and deployment of Machine Learning models.
 
 
 ## Tools and Technologies:
