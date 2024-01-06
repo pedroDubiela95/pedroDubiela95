@@ -1,6 +1,6 @@
 ## Pedro Gasparine Dubiela.
-### Hello, welcome to my portfolio profile.
-<img align="right" width="250px" style="margin-top:-20px" src="https://i.ibb.co/mtM4CdH/Whats-App-Image-2023-02-18-at-16-19-17.jpg" >
+### Hello, welcome to my profile.
+<img align="right" width="250px" style="margin-top:-20px" src="./img/me-removebg.png"  >
 
 - 👨🏻‍🎓 B.E. in Chemical Engineering |State University of Maringá - UEM| 2016-2020.
 - 🏅 Specialized in Artificial and Computational Intelligence |Federal University of Viçosa - UFV| 2023-2024.     
